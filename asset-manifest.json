@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-phonebook-toolkit/static/css/main.7cda0caf.css",
+    "main.js": "/react-phonebook-toolkit/static/js/main.a816195f.js",
+    "index.html": "/react-phonebook-toolkit/index.html",
+    "main.7cda0caf.css.map": "/react-phonebook-toolkit/static/css/main.7cda0caf.css.map",
+    "main.a816195f.js.map": "/react-phonebook-toolkit/static/js/main.a816195f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.a816195f.js"
+  ]
+}
