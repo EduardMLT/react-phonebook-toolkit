@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "react-phonebook-toolkit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EduardMLT.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://EduardMLT.github.io/react-phonebook-toolkit/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.7",
